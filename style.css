@@ -411,8 +411,8 @@ body {
 }
 
 .clear-all-btn {
-  background-color: #ff003b;
-  color: #fff;
+  background-color: #fd3d6a;
+  color: #000;
   border: none;
   padding: 0.5em 1.2em;
   margin: 1em auto 0;
@@ -426,12 +426,12 @@ body {
 }
 
 .clear-all-btn:hover {
-  background-color: #cc002f;
+  background-color: #ff003c;
   transform: scale(1.03);
 }
 
 .clear-all-btn:active {
-  background-color: #a80025;
+  background-color: #ff0037;
 }
 
 .show-more-btn {
